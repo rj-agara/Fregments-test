@@ -7,7 +7,6 @@
     android:background="#8BC34A"
     tools:context=".SecondFragment">
 
-    <!-- TODO: Update blank fragment layout -->
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
